@@ -49,3 +49,4 @@ sudo a2enmod rewrite
 
 # Start apache2 server
 sudo apachectl start
+sudo systemctl restart apache2
